@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JksJBV87hhgFoLkbx1JaoiBFEPox7G0Ew8SgDqN47Sg=",
+  "Source": "AdoptHub.Crm.Api",
+  "BasePath": "_content/AdoptHub.Crm.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

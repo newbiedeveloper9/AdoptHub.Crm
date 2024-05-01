@@ -1,0 +1,15 @@
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\bin\Debug\net8.0\AdoptHub.Crm.Domain.Services.deps.json
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\bin\Debug\net8.0\AdoptHub.Crm.Domain.Services.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\bin\Debug\net8.0\AdoptHub.Crm.Domain.Services.pdb
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.AssemblyInfoInputs.cache
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.AssemblyInfo.cs
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\refint\AdoptHub.Crm.Domain.Services.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.pdb
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\ref\AdoptHub.Crm.Domain.Services.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.Crm.Domain.Services.csproj.AssemblyReference.cache
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\bin\Debug\net8.0\AdoptHub.Crm.Infrastructure.Kubernetes.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\bin\Debug\net8.0\AdoptHub.Crm.Infrastructure.Kubernetes.pdb
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Services\obj\Debug\net8.0\AdoptHub.6381D9E2.Up2Date

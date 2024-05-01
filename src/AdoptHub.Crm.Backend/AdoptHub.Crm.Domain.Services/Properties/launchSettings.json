@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdoptHub.Crm.Domain.Services": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

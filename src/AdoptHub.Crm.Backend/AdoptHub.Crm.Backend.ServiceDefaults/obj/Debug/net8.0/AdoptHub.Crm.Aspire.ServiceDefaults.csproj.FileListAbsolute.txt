@@ -1,0 +1,12 @@
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\bin\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.deps.json
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\bin\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\bin\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.pdb
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.AssemblyInfo.cs
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\refint\AdoptHub.Crm.Aspire.ServiceDefaults.dll
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\AdoptHub.Crm.Aspire.ServiceDefaults.pdb
+C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Backend.ServiceDefaults\obj\Debug\net8.0\ref\AdoptHub.Crm.Aspire.ServiceDefaults.dll

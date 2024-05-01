@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AdoptHub.Crm.Api.props" />
+</Project>

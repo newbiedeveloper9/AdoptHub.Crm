@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "AdoptHub.Crm.Infrastructure.Messaging.Contracts/1.0.0": {
+        "runtime": {
+          "AdoptHub.Crm.Infrastructure.Messaging.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdoptHub.Crm.Infrastructure.Messaging.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

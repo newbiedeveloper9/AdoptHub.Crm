@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AdoptHub.Crm.Infrastructure.Messaging.Contracts
+build_property.ProjectDir = C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
