@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Instances\CreateInstance\" />
+    <Folder Include="Features\Instances\NewFolder\" />
+    <Folder Include="Features\Instances\Queries\" />
+  </ItemGroup>
+
+</Project>
