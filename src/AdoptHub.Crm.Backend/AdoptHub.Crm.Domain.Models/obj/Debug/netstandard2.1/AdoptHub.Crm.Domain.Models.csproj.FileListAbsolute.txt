@@ -1,9 +1,0 @@
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\bin\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.deps.json
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\bin\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.dll
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\bin\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.pdb
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\obj\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\obj\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.AssemblyInfoInputs.cache
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\obj\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.AssemblyInfo.cs
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\obj\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.csproj.CoreCompileInputs.cache
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\obj\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.dll
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Domain.Models\obj\Debug\netstandard2.1\AdoptHub.Crm.Domain.Models.pdb

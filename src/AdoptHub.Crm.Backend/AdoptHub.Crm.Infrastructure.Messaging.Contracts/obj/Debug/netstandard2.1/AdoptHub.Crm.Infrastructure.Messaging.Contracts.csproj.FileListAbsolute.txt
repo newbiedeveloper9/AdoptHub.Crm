@@ -1,9 +1,0 @@
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\bin\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.deps.json
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\bin\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.dll
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\bin\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.pdb
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\obj\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.GeneratedMSBuildEditorConfig.editorconfig
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\obj\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.AssemblyInfoInputs.cache
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\obj\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.AssemblyInfo.cs
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\obj\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.csproj.CoreCompileInputs.cache
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\obj\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.dll
-C:\Source\AdoptHub.Crm\src\AdoptHub.Crm.Backend\AdoptHub.Crm.Infrastructure.Messaging.Contracts\obj\Debug\netstandard2.1\AdoptHub.Crm.Infrastructure.Messaging.Contracts.pdb
